@@ -1,11 +1,10 @@
 {
   "name": "Osvaldo Ultra Auto Repo PRO+",
-  "description": "Repositorio automático optimizado con múltiples fuentes y redundancia",
+  "description": "Repositorio automático optimizado con múltiples fuentes estables",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/recloudstream/extensions/master/repo.json",
     "https://raw.githubusercontent.com/recloudstream/extensions-legacy/master/repo.json",
-    "https://raw.githubusercontent.com/recloudstream/extensions-ar/main/repo.json",
-    "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-hexated/main/repo.json"
+    "https://raw.githubusercontent.com/recloudstream/extensions-ar/main/repo.json"
   ]
 }
